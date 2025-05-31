@@ -1,25 +1,25 @@
-## Hi there, I'm Khoi 👋
+## Hi there, I'm Khoi
 
 I am a third-year Software Engineering student with a strong foundation in backend development and a growing passion for frontend technologies.
 
 ---
 
-### 📊 GitHub Stats
+### About Some Stats
 
-![PDK-23's Streak](https://github-readme-streak-stats.herokuapp.com/?user=PDK-23&theme=blueberry&hide_border=true)
+<div align="center">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PDK-23&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="PDK-23-langs"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=PDK-23&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="PDK-23-stats"/>
+</div>
+<div align="center">
+  <img height="220em" src="https://github-readme-streak-stats.herokuapp.com/?user=PDK-23&theme=radical&hide_border=true"/>
+</div>
+<br/>
 
 ---
 
-### 🔍 Most Used Languages
-
-![PDK-23's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PDK-23&theme=blueberry&show_icons=true&hide_border=true&layout=compact)
-
----
-
-### 📬 Contact Me
+### Contact Me
 
 - [LinkedIn](https://www.linkedin.com/in/pham-dang-khoi/)
-- [Facebook](https://www.facebook.com/PhamDangKhoi23)
 - **Email:** [phamdangkhoir@gmail.com](mailto:phamdangkhoir@gmail.com)
 
 ---
