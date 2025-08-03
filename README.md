@@ -2,7 +2,7 @@
 
 <p align="center">
   <em>
-    I am a third-year Software Engineering student with a strong foundation in backend development and a growing passion for frontend technologies.<br>
+    I am a third-year Software Engineering student with a strong foundation in frontend development and a growing passion for backend technologies.<br>
     Always eager to learn new things, solve challenging problems, and build meaningful products.
   </em>
 </p>
